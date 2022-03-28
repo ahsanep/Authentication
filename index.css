@@ -1,0 +1,32 @@
+.Login
+{
+position: absolute;
+left: 30%;
+top: 25%;
+background-color: whitesmoke;
+border-radius: 5%;
+width: 40%;
+height: 50%;
+text-align: center;
+}
+.Signup
+{
+position: absolute;
+left: 30%;
+top: 25%;
+background-color: whitesmoke;
+border-radius: 5%;
+width: 40%;
+height: 50%;
+text-align: center;
+}
+.Main
+{
+  position: absolute;
+  top: 25%;
+  left: 30%;
+}
+body
+{
+  background-color: #333333;
+}
